@@ -4,6 +4,8 @@
 
 **作者：观复居士 ·商务合作：13148728713；微信号：guanfujs**
 
+[![SkillHub](https://img.shields.io/badge/下载-SkillHub-orange)](https://www.skillhub.cn/skills/guanfu-shouxin-shu)
+
 **English**: Focus and procrastination self-check inspired by Confucian practice and modern attention research — a three-step stop method, five disciplines, one-task-at-a-time decomposition, a 25-minute timer practice, and six reflection questions.
 
 ---
